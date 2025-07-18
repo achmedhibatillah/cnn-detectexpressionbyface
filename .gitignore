@@ -1,2 +1,11 @@
-data/test/**
-data/train/**
+data/train/*
+data/test/*
+data/detect/*
+
+!data/train/
+!data/test/
+!data/detect/
+
+!data/train/.gitkeep
+!data/test/.gitkeep
+!data/detect/.gitkeep
