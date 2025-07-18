@@ -1,11 +1,11 @@
-data/train/*
-data/test/*
-data/detect/*
+face-data/train/*
+face-data/test/*
+face-data/detect/*
 
-!data/train/
-!data/test/
-!data/detect/
+!face-data/train/
+!face-data/test/
+!face-data/detect/
 
-!data/train/.gitkeep
-!data/test/.gitkeep
-!data/detect/.gitkeep
+!face-data/train/.gitkeep
+!face-data/test/.gitkeep
+!face-data/detect/.gitkeep
